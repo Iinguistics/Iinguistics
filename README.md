@@ -1,6 +1,9 @@
-![gif](https://github.com/Iinguistics/Iinguistics/blob/master/james-blotter.gif?raw=true)
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+![namegif](https://github.com/Iinguistics/Iinguistics/blob/master/james-blotter.gif?raw=true)
+![rolegif](https://github.com/Iinguistics/Iinguistics/blob/master/role-blotter.gif?raw=true)
+- 🔭 I’m currently working on: a Countries API project
+- 🌱 I’m currently learning: TypeScript
+- 💬 Ask me about: Anything!
+- 📫 How to reach me: jmsgoytia@gmail.com or jamesgoytia.com
 
 <!--
 **Iinguistics/Iinguistics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

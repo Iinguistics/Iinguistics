@@ -1,4 +1,4 @@
-![gif from nerdy.dev](https://github.com/Iinguistics/Iinguistics/blob/master/james-blotter.gif?raw=true)
+![gif](https://github.com/Iinguistics/Iinguistics/blob/master/james-blotter.gif?raw=true)
 
 <!--
 **Iinguistics/Iinguistics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

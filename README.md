@@ -1,4 +1,6 @@
 ![gif](https://github.com/Iinguistics/Iinguistics/blob/master/james-blotter.gif?raw=true)
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
 
 <!--
 **Iinguistics/Iinguistics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

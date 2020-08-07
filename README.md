@@ -1,7 +1,7 @@
 ![namegif](https://github.com/Iinguistics/Iinguistics/blob/master/james-blotter.gif?raw=true)
 ![rolegif](https://github.com/Iinguistics/Iinguistics/blob/master/role-blotter.gif?raw=true)
-- 🔭 I’m currently working on: a Countries API project
-- 🌱 I’m currently learning: TypeScript
+- 🔭 I’m currently working on: A travel app
+- 🌱 I’m currently learning: React/Redux
 - 💬 Ask me about: Anything!
 - 📫 How to reach me: jmsgoytia@gmail.com or jamesgoytia.com
 
